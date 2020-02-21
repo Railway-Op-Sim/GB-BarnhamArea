@@ -2,7 +2,7 @@
 
 This route is open to editting from any developer. The location has been chosen as a training route for practicing creation of timetables with joins and splits, with Barnham being the point at which services divide to proceed to Bognor Regis/Portsmouth.
 
-![Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-BarnhamArea/master/Images/BarnhamandFord.bmp)
+![Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-BarnhamArea/master/Images/BarnhamandFord.png)
 
 ## Current Status
 
