@@ -1,6 +1,8 @@
 # Barnham & Ford, Sussex, UK
 
-This route is open to editting from any developer. The location has been chosen as a training route for practicing creation of timetables with joins and splits, with Barnham being the point at which services divide to proceed to Bognor Regis/Portsmouth.
+This route is open to contributions from any developer. 
+
+The location has been chosen as a training route for practicing creation of timetables with joins and splits. Barnham is the location at which services from London divide to proceed to either Bognor Regis or Portsmouth.
 
 ![Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-BarnhamArea/master/Images/BarnhamandFord.png)
 
