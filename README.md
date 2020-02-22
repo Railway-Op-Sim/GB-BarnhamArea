@@ -11,7 +11,7 @@ The location has been chosen as a training route for practicing creation of time
 | Stage         | Status        |
 | ------------- |:-------------:|
 | Track Plan     | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Signalling      | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24">      |
+| Signalling      | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
 | Naming | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24">      |
 | Speed Limits | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24">|
 | Distances | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
@@ -23,3 +23,6 @@ The location has been chosen as a training route for practicing creation of time
 
 - OpenRailwayMap.org
 - OpenStreetMap
+- https://www.youtube.com/watch?v=t7_9dplADgA
+- https://www.youtube.com/watch?v=X0I4S0b1AEs
+- https://www.youtube.com/watch?v=IDzgAZYcayI
