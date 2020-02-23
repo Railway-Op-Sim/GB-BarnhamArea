@@ -23,6 +23,6 @@ The location has been chosen as a training route for practicing creation of time
 
 - OpenRailwayMap.org
 - OpenStreetMap
-- https://www.youtube.com/watch?v=t7_9dplADgA
-- https://www.youtube.com/watch?v=X0I4S0b1AEs
-- https://www.youtube.com/watch?v=IDzgAZYcayI
+- ![YouTube: Cab Ride - Bognor Regis to Littlehampton (and return) by emmo999](https://www.youtube.com/watch?v=t7_9dplADgA)
+- ![YouTube: Brighton to Barnham by ed731pdh](https://www.youtube.com/watch?v=X0I4S0b1AEs)
+- ![YouTube: Barnham to Havant 1080 by ed731pdh](https://www.youtube.com/watch?v=IDzgAZYcayI)
