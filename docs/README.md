@@ -4,10 +4,10 @@ This is a representation of the small section of railway between Barnham and For
 
 ## Simulation
 
-The simulation includes a simple weekday morning timetable, however, the emphasis of this route is to give developers a canvas for them to develop their own timetables which could also involve splits and joins reminisant of timetables in the early 2000s.
+The simulation includes a simple weekday morning timetable, however, the emphasis of this route is to give developers a canvas for them to develop their own timetables which could also involve splits and joins reminisant of timetables in the early 2000s, with services from London towards Bognor Regis/Portsmouth dividing at Barnham.
 
 ## Development
 
-We welcome all developers to contribute to this route including, as mentioned above, timetables. You can submit any contributions on the Railway Operations Simulator GitHub organisation.
+We welcome all developers to contribute to this route including, as mentioned above, timetables. You can submit any contributions on the Railway Operations Simulator GitHub organisation [here](https://github.com/Railway-Op-Sim/UK-BarnhamArea).
 
-If you require any assistance in creation of a timetable or submitting it through GitHub, then visit the helpdesk channel on Discord and we'll be happy to help.
+If you require any assistance in creation of a timetable or submitting it through GitHub, then visit the helpdesk channel on the ROS community Discord and we'll be happy to help.
