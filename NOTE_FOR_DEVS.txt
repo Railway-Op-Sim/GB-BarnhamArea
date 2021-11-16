@@ -1,0 +1,5 @@
+There is a few services in the Dec 2007 timetable, which can be downloaded using the link below, that split at Barnham.
+This could be used to create some interesting timetables. 
+The main timetable is table 188. (About page 2733) Barnham can also be seen on tables 123 and 158.
+
+https://www.dpsimulation.org.uk/timetables.html
