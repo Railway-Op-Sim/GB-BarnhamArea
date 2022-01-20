@@ -9,21 +9,28 @@
             "increment":"2",
             "events": [
                 "23:57;Snt;18-30 18-29",
-                {".D..":"23:59;Barnham"},
-                {".D..":"23:59;cdt"},
-                {".D..":"00:00;Fns;2D04"},
-                {".C..":"23:59;00:00;Barnham"},
-                {".C..":"00:04;00:04;Ford"},
-                {".C..":"00:07;Fer;87-27"}
+                "23:59;Barnham",
+                "23:59;cdt",
+                "00:00;Fns;2D04"
             ],
             "times": [
-                "06:29",
-                {"time":"07:09","ref":"2C14","description":"%t23:55% Bognor Regis to Littlehampton"},
-                "07:25",
-                {"time":"07:35","ref":"2C16","description":"%t23:55% Bognor Regis to Littlehampton"},
-                {"time":"08:16","ref":"2C18","description":"%t23:55% Bognor Regis to Littlehampton"},
-                {"time":"08:44","ref":"2C20","description":"%t23:55% Bognor Regis to Brighton via Littlehampton"},
-                "09:14"
+                "06:29","07:25","09:14"
+            ]
+        },
+        {
+            "ref":"2C14",
+            "description":"%t23:55% Bognor Regis to Littlehampton",
+            "startSpeed":"50",
+            "dataTemplate":"C377/1_4",
+            "increment":"2",
+            "events": [
+                "23:57;Snt;18-30 18-29",
+                "23:59;00:00;Barnham",
+                "00:04;00:04;Ford",
+                "00:07;Fer;87-27"
+            ],
+            "times": [
+                "07:09","07:35","08:16","08:44"
             ]
         },
         {
@@ -33,20 +40,28 @@
             "dataTemplate":"C377/1_4",
             "increment":"2",
             "events": [
-                {".C..":"00:14;Snt;87-28 86-28"},
-                {".C..":"00:17;00:17;Ford"},
-                {".C..":"00:21;00:21;Barnham"},
-                {"2D16":"00:00;Sns;2D05","2D(1[^6]|0.)":"00:00;Sns;2D03"},
-                {".D..":"00:21;Barnham"},
+                "00:00;Sns;2D03",
+                "00:21;Barnham",
                 "00:23;Fer;19-30"
             ],
             "times": [
-                "06:29",
-                {"time":"07:09","ref":"2C15","description":"%t00:11% Littlehampton to Bognor Regis"},
-                "07:25",
-                {"time":"07:35","ref":"2C17","description":"%t00:11% Littlehampton to Bognor Regis"},
-                {"time":"08:16","ref":"2C19","description":"%t00:11% Littlehampton to Bognor Regis"},
-                {"time":"09:14","ref":"2D16"}
+                "06:29","07:25","09:14"
+            ]
+        },
+        {
+            "ref":"2C15",
+            "description":"%t00:11% Littlehampton to Bognor Regis",
+            "startSpeed":"50",
+            "dataTemplate":"C377/1_4",
+            "increment":"2",
+            "events": [
+                "00:14;Snt;87-28 86-28",
+                "00:17;00:17;Ford",
+                "00:21;00:21;Barnham",
+                "00:23;Fer;19-30"
+            ],
+            "times": [
+                "07:09","07:35","08:16"
             ]
         }
     ]
